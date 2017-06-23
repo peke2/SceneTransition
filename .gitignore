@@ -3,3 +3,5 @@ Library/ShaderCache/*
 *.log
 *.buildreport
 *.exe
+Library/il2cpp*
+Library/webgl_cache
